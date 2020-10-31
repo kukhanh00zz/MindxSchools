@@ -1,0 +1,14 @@
+.class1 {
+    margin: 100px 0 0 35%;
+    border-radius: 50%;
+    border: 2px solid red;
+    width: 500px;
+    height: 500px;
+  }
+#navbar {
+  list-style-type:none;
+}
+a{
+  text-decoration: none;
+
+}
